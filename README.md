@@ -3,7 +3,6 @@
 
 ## Upcomming
 ### codewars
-[Coding 3min : Jumping Dutch act](https://www.codewars.com/kata/570bcd9715944a2c8e000009)
 [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
 [Enumerable Magic #2 - True for Any?](https://www.codewars.com/kata/54598e89cbae2ac001001135)
 [Find the force of gravity between two objects](https://www.codewars.com/kata/5b609ebc8f47bd595e000627)
@@ -23,7 +22,8 @@
 
 ## current
 ### codewars
-[Evil or Odious](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)
+[Coding 3min : Jumping Dutch act](https://www.codewars.com/kata/570bcd9715944a2c8e000009)
+
 
 
 ## Redo
@@ -33,4 +33,4 @@
 ## Done
 ### codewars
 [Reverse list recursively](https://www.codewars.com/kata/57a883cfbb9944a97c000088)
-
+[Evil or Odious](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)
