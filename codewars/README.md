@@ -3,7 +3,7 @@
 |Link|Level|State|Title|
 |----|-----|-----|-----|
 |[Link](https://www.codewars.com/kata/57a883cfbb9944a97c000088)|8|Done|Reverse list recursively|
-|[Link](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)|8|Done|Evil or Odious]|
+|[Link](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)|8|Done|Evil or Odious|
 |[Link](https://www.codewars.com/kata/570bcd9715944a2c8e000009)|8|InProgress|Coding 3min : Jumping Dutch act|
 |[Link](https://www.codewars.com/kata/57a37f3cbb99449513000cd8)|8|Redo|kyu Get number from string
 |[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)|8|Upcomming|Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|
