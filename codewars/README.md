@@ -6,7 +6,7 @@
 |[Link](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034)|8|Done|Evil or Odious|
 |[Link](https://www.codewars.com/kata/570bcd9715944a2c8e000009)|8|Done|Coding 3min : Jumping Dutch act|
 |[Link](https://www.codewars.com/kata/57a37f3cbb99449513000cd8)|8|Redo|kyu Get number from string
-|[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)|8|Upcomming|Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|
+|[Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)|8|Redo|Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence|
 |[Link](https://www.codewars.com/kata/54598e89cbae2ac001001135)|8|Upcomming|Enumerable Magic #2 - True for Any?|
 |[Link](https://www.codewars.com/kata/5b609ebc8f47bd595e000627)|8|Upcomming|Find the force of gravity between two objects|
 |[Link](https://www.codewars.com/kata/57faf7275c991027af000679)|8|Upcomming|Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right|
